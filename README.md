@@ -1,4 +1,4 @@
-# Decision_Analysis
+# Decision Analysis in R
 
 
 This is a repository for files and programs from the UCSD SPPS 209 - Applied Pharmacoeconomics Course. 
