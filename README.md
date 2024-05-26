@@ -16,6 +16,6 @@ University of Minnesota School of Public Health, Minneapolis, MN, USA
 February 2016
 
 
-Credit for many of the R program go to these researchers. 
+Credit for many of the R programs goes to these researchers. 
 
 
